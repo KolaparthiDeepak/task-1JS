@@ -1,12 +1,12 @@
 var Person=
 {
-    FirstName:"",
-    LastName:"",
+    FirstName:"first",
+    LastName:"last",
     OfficeAddress:
     {
-       DNumber:"",
-       City:"",
-       Pincode:"",
+       DNumber:"123",
+       City:"abc",
+       Pincode:"12345",
     },
 };
  

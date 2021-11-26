@@ -1,12 +1,12 @@
 var Person=new Object();
 Person:{
-    var FirstName,
-    var LastName,
+    var FirstName;
+    var LastName;
     var OfficeAddress:
     {
-       var DNumber,
-       var City,
-       var Pincode,
+       var DNumber;
+       var City;
+       var Pincode;
     },
 };
  
